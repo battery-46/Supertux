@@ -225,4 +225,4 @@ SuperTux is the full free version, offering all features and updates included. E
 Don't miss out on the chance to relive your childhood adventures! **Download SuperTux free today and start your journey!**
 
 ---
-**Last updated:** 2026-09-20 13:21:55 UTC
+**Last updated:** 2026-09-20 17:10:39 UTC
